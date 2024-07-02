@@ -8,15 +8,16 @@ messages.
 
 Two papers are available as the output of the project:
 
+``` 
 ``` example
-@article{boumechaal23covid,
+@article{boumechaal2024covid,
   title={Attitudes, Communicative Functions, and Lexicogrammatical features of Anti-Vaccine Discourse on Telegram},
   author={Souad Boumechaal and Serge Sharoff},
   journal={Applied Corpus Linguistics},
-  volume=3,
-  issue=3,
-  year=2023,
-  url = {http://corpus.leeds.ac.uk/serge/publications/2023-appied.pdf},
+  volume=4,
+  issue=2,
+  doi = {https://doi.org/10.1016/j.acorp.2024.100095},
+  year=2024,
   publisher={Elsevier}
 }
 ```
@@ -39,6 +40,8 @@ Two papers are available as the output of the project:
 The repository for our pipeline for collection of multimodal information
 from Telegram is at:
 <https://github.com/josesosajs/telegram-data-collection>
+
+The annotated training set is in COVID-augmented_training_data.xlsx
 
 # Project aims
 
